@@ -59,7 +59,7 @@ if [ ! -f "wp-config.php" ]; then
 
     # WordPress インストール
     wp core install \
-        --url=kosakats.42.fr \
+        --url=tishihar.42.fr \
         --title="${WP_TITLE}" \
         --admin_user="${WP_ADMIN_USER}" \
         --admin_password="${WP_ADMIN_PASSWORD}" \

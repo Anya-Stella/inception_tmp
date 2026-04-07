@@ -12,7 +12,7 @@ if [ ! -f "$SSL_DIR/nginx.crt" ]; then
 		-newkey rsa:2048 \
 		-keyout $SSL_DIR/nginx.key \
 		-out $SSL_DIR/nginx.crt \
-		-subj "/C=JP/ST=Tokyo/L=Tokyo/O=42/OU=student/CN=kosakats.42.fr"
+		-subj "/C=JP/ST=Tokyo/L=Tokyo/O=42/OU=student/CN=tishihar.42.fr"
 
 fi
 

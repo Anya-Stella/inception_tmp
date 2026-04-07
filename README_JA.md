@@ -1,4 +1,4 @@
-*このプロジェクトは 42 のカリキュラムの一環として kosakats によって作成されました*
+*このプロジェクトは 42 のカリキュラムの一環として tishihar によって作成されました*
 
 ## 概要 (Description)
 このプロジェクト「Inception」は、Docker を使用して複数のサービスを仮想化することで、システム管理の知識を広げることを目的としています。Docker Compose を使用し、特定のルールに従って異なるサービス（Nginx、WordPress、MariaDB）で構成される小規模なインフラストラクチャをセットアップします。
@@ -14,7 +14,7 @@
    ```
    （または `docker-compose -f srcs/docker-compose.yml up --build` を使用）
 4. **アクセス**:
-   Web ブラウザを開き、`https://kosakats.42.fr` にアクセスします。
+   Web ブラウザを開き、`https://tishihar.42.fr` にアクセスします。
 
 ## リソース (Resources)
 - Docker ドキュメント

@@ -57,13 +57,13 @@ volumes:
     driver: local
     driver_opts:
       type: none
-      device: /home/kosakats/data/mariadb
+      device: /home/tishihar/data/mariadb
       o: bind
   wordpress_data:
     driver: local
     driver_opts:
       type: none
-      device: /home/kosakats/data/wordpress
+      device: /home/tishihar/data/wordpress
       o: bind
 
 networks:
